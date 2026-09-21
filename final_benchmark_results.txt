@@ -1,0 +1,11 @@
+FINAL MODEL BENCHMARK SCOREBOARD (OBSERVED DAYTIME DATA)
+============================================================
+                       Model   RMSE    MAE     R2
+Linear Regression (Baseline) 696.71 245.23 0.8873
+     Decision Tree Regressor 652.93 204.26 0.9010
+     Random Forest Regressor 610.21 182.45 0.9136
+           XGBoost Regressor 621.68 187.51 0.9103
+
+Stratified Analysis (XGBoost):
+ - Major Roads: RMSE = 1014.73 | R2 = 0.8544
+ - Minor Roads: RMSE = 163.96 | R2 = 0.8865
