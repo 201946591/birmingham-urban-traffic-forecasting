@@ -106,57 +106,8 @@ birmingham-urban-traffic-forecasting/
 ├── .gitignore
 ├── environment.yml                       # Conda environment definition
 ├── LICENSE                               # MIT License
-├── README.md                             # Project overview and reproduction guide
+├── README.md                             # Project overview and benchmark summary
 └── requirements.txt                      # Pinned Python package dependencies
-```
-
----
-
-## Reproduction Protocol
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/<your-username>/birmingham-urban-traffic-forecasting.git
-cd birmingham-urban-traffic-forecasting
-```
-
-### 2. Environment Setup
-#### Option A: Python Virtual Environment (`venv`)
-```bash
-python -m venv .venv
-# On Windows PowerShell:
-.\.venv\Scripts\Activate.ps1
-# On Linux / macOS:
-source .venv/bin/activate
-
-pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-#### Option B: Conda
-```bash
-conda env create -f environment.yml
-conda activate birmingham-traffic
-```
-
-### 3. Replicate Final Methodological Benchmark
-Run the single self-contained benchmark script:
-```bash
-py scripts/run_final_methodological_benchmark.py
-```
-This script ingests the raw DfT survey data, engineers the exact 10 past-only features, partitions the 80/20 chronological train/test split, trains all four models, and prints the verified benchmark scoreboard to the console and `final_benchmark_results.txt`.
-
-### 4. Regenerate Publication Figures
-To regenerate all 300 DPI figures presented in Chapter 4:
-```bash
-py scripts/generate_final_charts.py
-py scripts/generate_flowchart.py
-```
-
-### 5. Interactive Future Traffic Inference
-To run point predictions with empirical vehicle classification disaggregation:
-```bash
-py scripts/05_future_predictor.py
 ```
 
 ---
