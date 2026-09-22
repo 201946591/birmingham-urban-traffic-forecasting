@@ -56,7 +56,7 @@ def main():
     # LOAD DATA AND TRAIN MODEL (same pipeline as audit)
     # ===========================================================
     print("[1] Loading raw DfT data and training models...")
-    input_path = "dft_rawcount_local_authority_id_141 (1).csv"
+    input_path = "dft_rawcount_local_authority_id_141.csv"
     if not os.path.exists(input_path):
         parent_candidate = os.path.join(os.path.dirname(__file__), "..", input_path)
         if os.path.exists(parent_candidate):

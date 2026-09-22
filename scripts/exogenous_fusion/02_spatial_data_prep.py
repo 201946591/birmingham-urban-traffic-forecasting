@@ -24,7 +24,7 @@ def main():
     # 1. Locate and read the master preprocessed traffic dataset
     possible_paths = [
         os.path.join(os.path.dirname(__file__), "..", "master_birmingham_traffic.csv"),
-        os.path.join(os.path.dirname(__file__), "..", "dft_rawcount_local_authority_id_141 (1).csv"),
+        os.path.join(os.path.dirname(__file__), "..", "dft_rawcount_local_authority_id_141.csv"),
     ]
 
     input_path = None

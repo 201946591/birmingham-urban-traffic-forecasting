@@ -23,7 +23,7 @@ def main():
     print("FINAL METHODOLOGICAL BENCHMARK (OBSERVED DAYTIME DATA)")
     print("=" * 60)
 
-    filename = "dft_rawcount_local_authority_id_141 (1).csv"
+    filename = "dft_rawcount_local_authority_id_141.csv"
     candidates = [
         filename,
         os.path.join("data", filename),
