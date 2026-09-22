@@ -1,4 +1,4 @@
-# Urban Traffic Flow Forecasting in Birmingham: A Machine Learning and Econometric Benchmark
+# Urban Traffic Flow Prediction in Birmingham Using Tree-Based Machine Learning Ensembles
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
@@ -8,7 +8,7 @@
 
 This repository contains the empirical code, datasets, figure generation routines, and reproduction pipelines for the MSc Business Analytics and Big Data dissertation:
 
-> **Dissertation Title**: *Urban Traffic Flow Forecasting in Birmingham: A Machine Learning and Econometric Benchmark Using Department for Transport Open Data*  
+> **Dissertation Title**: *Urban Traffic Flow Prediction in Birmingham Using Tree-Based Machine Learning Ensembles*  
 > **Author**: Pretty Jayaraj (Student ID: 201946591)  
 > **Programme**: MSc Business Analytics and Big Data  
 > **Institution**: University of Liverpool Management School  
@@ -133,7 +133,7 @@ If you utilise this code or empirical benchmark in your research, please cite:
 ```bibtex
 @mastersthesis{jayaraj2026birmingham,
   author       = {Jayaraj, Pretty},
-  title        = {Urban Traffic Flow Forecasting in Birmingham: A Machine Learning and Econometric Benchmark Using Department for Transport Open Data},
+  title        = {Urban Traffic Flow Prediction in Birmingham Using Tree-Based Machine Learning Ensembles},
   school       = {University of Liverpool Management School},
   year         = {2026},
   type         = {MSc Dissertation},
@@ -143,7 +143,7 @@ If you utilise this code or empirical benchmark in your research, please cite:
 ```
 
 Harvard citation format (*Cite Them Right*):
-> Jayaraj, P. (2026) *Urban Traffic Flow Forecasting in Birmingham: A Machine Learning and Econometric Benchmark Using Department for Transport Open Data*. MSc Dissertation. University of Liverpool Management School.
+> Jayaraj, P. (2026) *Urban Traffic Flow Prediction in Birmingham Using Tree-Based Machine Learning Ensembles*. MSc Dissertation. University of Liverpool Management School.
 
 ---
 
