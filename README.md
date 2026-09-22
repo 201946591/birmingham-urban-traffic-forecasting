@@ -9,11 +9,11 @@
 This repository contains the empirical code, datasets, figure generation routines, and reproduction pipelines for the MSc Business Analytics and Big Data dissertation:
 
 > **Dissertation Title**: *Urban Traffic Flow Forecasting in Birmingham: A Machine Learning and Econometric Benchmark Using Department for Transport Open Data*  
-> **Author**: Pretty Jayaraj (Student ID: 201936238)  
+> **Author**: Pretty Jayaraj (Student ID: 201946591)  
 > **Programme**: MSc Business Analytics and Big Data  
 > **Institution**: University of Liverpool Management School  
 > **Module**: EBUS621 – MSc Dissertation (2025/2026)  
-> **Academic Supervisor**: Dr. Ehsan Khajeh  
+> **Academic Supervisor**: Dr. Ehsan Amirnazmiafshar  
 
 ---
 
@@ -138,7 +138,7 @@ If you utilise this code or empirical benchmark in your research, please cite:
   year         = {2026},
   type         = {MSc Dissertation},
   address      = {Liverpool, United Kingdom},
-  note         = {Module: EBUS621 Business Analytics and Big Data Dissertation. Supervised by Dr. Ehsan Khajeh.}
+  note         = {Module: EBUS621 Business Analytics and Big Data Dissertation. Supervised by Dr. Ehsan Amirnazmiafshar.}
 }
 ```
 

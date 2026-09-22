@@ -1,7 +1,7 @@
-# ==============================================================================
+﻿# ==============================================================================
 # Spatial Zonal Data Preparation: Major vs. Minor Road-Type Stratification
 # Urban Traffic Flow Forecasting in Birmingham (Local Authority 141)
-# Author: Pretty Jayaraj (ID: 201936238) - MSc Business Analytics and Big Data
+# Author: Pretty Jayaraj (ID: 201946591) - MSc Business Analytics and Big Data
 # University of Liverpool - EBUS621 Dissertation Project
 # ==============================================================================
 # Stratifies the Birmingham traffic dataset across two functional road classes:
@@ -137,3 +137,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

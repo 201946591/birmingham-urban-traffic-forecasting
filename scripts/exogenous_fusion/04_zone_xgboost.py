@@ -1,7 +1,7 @@
-# ==============================================================================
+﻿# ==============================================================================
 # Road-Type Stratified XGBoost Modeling with Exogenous Environmental Data
 # Urban Traffic Flow Forecasting in Birmingham (Local Authority 141)
-# Author: Pretty Jayaraj (ID: 201936238) - MSc Business Analytics and Big Data
+# Author: Pretty Jayaraj (ID: 201946591) - MSc Business Analytics and Big Data
 # University of Liverpool - EBUS621 Dissertation Project
 # ==============================================================================
 # Evaluates whether incorporating exogenous meteorological feeds (temperature,
@@ -311,3 +311,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

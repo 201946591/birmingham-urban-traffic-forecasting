@@ -1,6 +1,6 @@
 # ==============================================================================
 # Python Package Dependencies for Birmingham Traffic Forecasting Benchmark
-# Author: Pretty Jayaraj (ID: 201936238) - University of Liverpool
+# Author: Pretty Jayaraj (ID: 201946591) - University of Liverpool
 # ==============================================================================
 pandas>=2.0.0
 numpy>=1.24.0

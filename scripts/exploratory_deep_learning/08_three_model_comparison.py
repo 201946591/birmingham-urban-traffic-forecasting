@@ -1,7 +1,7 @@
-# ==============================================================================
+﻿# ==============================================================================
 # Exploratory Three-Model Comparative Performance Table (ARIMA vs XGBoost vs LSTM)
 # Urban Traffic Flow Forecasting in Birmingham (Local Authority 141)
-# Author: Pretty Jayaraj (ID: 201936238) - MSc Business Analytics and Big Data
+# Author: Pretty Jayaraj (ID: 201946591) - MSc Business Analytics and Big Data
 # University of Liverpool - EBUS621 Dissertation Project
 # ==============================================================================
 # Summarizes the exploratory three-model benchmark evaluated during preliminary
@@ -133,3 +133,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

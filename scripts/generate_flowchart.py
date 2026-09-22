@@ -1,7 +1,7 @@
-# ==============================================================================
+﻿# ==============================================================================
 # Methodology Flowchart Generation (Figure 3.1)
 # Urban Traffic Flow Forecasting in Birmingham (Local Authority 141)
-# Author: Pretty Jayaraj (ID: 201936238) - MSc Business Analytics and Big Data
+# Author: Pretty Jayaraj (ID: 201946591) - MSc Business Analytics and Big Data
 # University of Liverpool - EBUS621 Dissertation Project
 # ==============================================================================
 
@@ -218,3 +218,4 @@ def create_methodology_flowchart():
 
 if __name__ == "__main__":
     create_methodology_flowchart()
+

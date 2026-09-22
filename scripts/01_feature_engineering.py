@@ -1,7 +1,7 @@
-# ==============================================================================
+﻿# ==============================================================================
 # Feature Engineering: Temporal Lags, Cyclical Encodings & Rolling Statistics
 # Urban Traffic Flow Forecasting in Birmingham (Local Authority 141)
-# Author: Pretty Jayaraj (ID: 201936238) - MSc Business Analytics and Big Data
+# Author: Pretty Jayaraj (ID: 201946591) - MSc Business Analytics and Big Data
 # University of Liverpool - EBUS621 Dissertation Project
 # ==============================================================================
 
@@ -68,3 +68,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
